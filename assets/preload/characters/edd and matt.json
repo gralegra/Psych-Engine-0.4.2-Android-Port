@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "edd and matt dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/edd-and-matt",
+	"position": [
+		-90,
+		-30
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		155,
+		40
+	],
+	"camera_position": [
+		150,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

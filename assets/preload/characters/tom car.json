@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "tom idle"
+		},
+		{
+			"offsets": [
+				0,
+				47
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tom up"
+		},
+		{
+			"offsets": [
+				0,
+				4
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tom down"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tom right"
+		},
+		{
+			"offsets": [
+				0,
+				18
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tom left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tom-car",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "Tom Car",
+	"flip_x": true,
+	"healthbar_colors": [
+		20,
+		60,
+		115
+	],
+	"camera_position": [
+		50,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
